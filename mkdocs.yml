@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Docs as Code
+nav:
+- Главная страница: index.md
+- Guide:
+  - Пошаговое руководство по созданию страницы: guide/creatingnewpage.md
+  - Справка по Markdown: guide/markdownref.md
+
+
